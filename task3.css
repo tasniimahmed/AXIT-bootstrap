@@ -1,0 +1,177 @@
+header{
+    color:white;
+    background-image:linear-gradient(rgba(29, 29, 29, 0.486) ,
+    rgba(24, 24, 23, 0.466)), url(bk.jpg);
+    background-size: cover;
+    height: auto;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+h1:after{
+    background-color: white;
+    display:block;
+    content: " ";
+    width:7%;
+    height:3px;
+    margin-top: 3%;
+}
+
+/*circular border for icons*/
+.circular{
+    padding:4%;
+    margin-right: 6%;
+    border: 2px solid rgb(250, 128, 57);
+    border-radius: 50%;
+    font-size: 130%;
+    color:rgb(250, 128, 57);
+
+}
+
+.first-footer{
+    background-color: white;
+   color:rgb(189, 189, 189); 
+   padding-top: 1.5%;
+}
+
+/*-----Section tabs----*/
+.section-tabs{
+    padding-top: 5%;
+    background-color: rgb(241, 241, 241);
+    color: rgb(172, 172, 172);
+    padding-bottom: 10%;
+}
+
+h4,h5,h6{
+    color:rgb(56, 56, 56);
+}
+
+/*-----Section sub----*/
+.section-sub{
+    margin-top: 5%;
+    padding-bottom: 5%;
+    padding-top:5%;
+    background-color: white;
+    color: rgb(138, 138, 138);
+}
+h5:after{
+    background-color: rgb(238, 140, 27);
+    display:block;
+    content: " ";
+    width:10%;
+    height: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*-----Section pic----*/
+.section-pic{
+    padding-top: 5%;
+}
+
+/*-----Section awesome----*/
+.section-awesome{
+    padding-top: 5%;
+    background-color: white;
+    text-align: center;
+    padding-bottom: 6%;
+}
+h3:after{
+    background-color: rgb(238, 111, 27);
+    display:block;
+    content: " ";
+    width:5%;
+    height: 2px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*-----Section pic----*/
+.section-stylish{
+    
+    padding-top: 5%;
+    background-image: linear-gradient(rgba(20, 20, 20, 0.747) ,
+    rgba(12, 12, 12, 0.705)),url(bk2.jpg);
+   height: 300px;
+}
+
+h2:after{
+    background-color: white;
+    display:block;
+    content: " ";
+    width:7%;
+    height:3px;
+    margin-top: 2%;
+    margin-left: 45%;
+    margin-bottom: 3%;
+}
+
+/*-----Section options----*/
+.section-options{
+    padding-top: 5%;
+    background-color: rgb(241, 241, 241);
+    text-align: center;
+    padding-bottom: 6%;
+    text-align: center;
+}
+.card1{
+    background-color: rgb(37, 37, 37);
+    color:white;
+    border-bottom: 5px solid rgb(250, 128, 57);
+    
+}
+.card2{
+    color:white;
+    background-color:rgb(250, 128, 57);
+}
+.cardpart1{
+    padding-top: 3%;
+    font-size: 200px;
+    text-align: center;
+    
+    color:white;
+    border-bottom: 1px solid white;
+    
+}
+
+/*-----Section customers----*/
+.section-customers{
+    padding-top: 5%;
+    background-color: white;
+    text-align: center;
+    padding-bottom: 9%;
+    
+}
+
+.comment{
+    padding-top: 8%;
+    padding-bottom: 0%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: left;
+    margin-top:15%;
+    margin-bottom: 14%;
+    background-color: rgb(245, 245, 245);
+    width:120%;
+    height: auto;
+}
+
+/*-----Section contact----*/
+.section-contact{
+    padding-bottom: 5%;
+    padding-top:5%;
+    background-color: white;
+    color: rgb(138, 138, 138);
+    text-align: center;
+}
+
+
+.last-footer{
+    background-color: rgba(10, 10, 10, 0.966);
+    height: 90px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+
