@@ -152,8 +152,20 @@ h2:after{
     margin-top:15%;
     margin-bottom: 14%;
     background-color: rgb(245, 245, 245);
-    width:120%;
+    width:100%;
     height: auto;
+}
+.comment::after{
+    content: "";
+  position:absolute;
+  margin-top:167px;
+  margin-left:-10px;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-bottom: 12px solid rgb(245, 245, 245);
+  transform:rotate(-180deg);
+  right: 200px; 
+  top: 10px;
 }
 
 /*-----Section contact----*/
